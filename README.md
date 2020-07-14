@@ -46,16 +46,19 @@ Place
 ## Config
 
 ```
+# 0 = false
+# 1 = true
+
 # Event | Select when to send a warning
-Break: true 
-Place: false
+Break: 1 
+Place: 0
 
 # Ores | Select the type of ore to send a warning
-IronOre: false
-CoalOre: false
-GoldOre: false
-RedstoneOre: false
-LapisOre: true
-EmeraldOre: false
-DiamondOre: true
+IronOre: 0
+CoalOre: 0
+GoldOre: 0
+RedstoneOre: 0
+LapisOre: 1
+EmeraldOre: 0
+DiamondOre: 1
 ```
