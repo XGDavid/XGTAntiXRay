@@ -1,0 +1,17 @@
+# XGTAntiXRay
+
+# 0 = false
+# 1 = true
+
+# Event | Select when to send a warning
+Break: 1 
+Place: 0
+
+# Ores | Select the type of ore to send a warning
+IronOre: 0
+CoalOre: 0
+GoldOre: 0
+RedstoneOre: 0
+LapisOre: 1
+EmeraldOre: 0
+DiamondOre: 1
